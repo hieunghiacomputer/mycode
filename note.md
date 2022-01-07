@@ -8,3 +8,5 @@
 --git checkout {branch name}
 --git branch
 --git checkout -b {branch name}
+--git merge branh name
+git branch -d {branch name}
