@@ -1,3 +1,8 @@
+#term
+Repository (Repo)
+Branch
+Conflict
+
 -git init
 -git status
 -git add
